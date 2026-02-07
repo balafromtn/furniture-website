@@ -604,9 +604,10 @@ footer {
     flex-direction: column;
   }
 
-  .contact-split {
-    flex-direction: column;
-  }
+  /* .contact-split {
+    flex-direction: column; 
+    align-items: center; 
+  } */
 }
 
 footer {
